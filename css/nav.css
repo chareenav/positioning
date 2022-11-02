@@ -1,27 +1,31 @@
 /* Global rules */
 .topnav {
     margin: auto;
-    background-color: rgb(95,95,95);
+    background-color:#7f5539(95,95,95)
     overflow: auto;
 }
 
 .topnav a {
     float: left;
     display: block;
-    color: whitesmoke;
+    color: black;
+    background-color: #9c6644;
     text-align: center;
     padding: 12px 12px;
     text-decoration: none;
     text-transform: capitalize;
     font-size: 16px;
+
 }
 
 .topnav a.hover, .active {
-    background-color: darkcyan;
+    background-color: #7f5539;
+    color: black;
 }
 
 .topnav .icon {
     display: none;
+    background-color: #7f5539;
 }
 
 /* Responsive rules - apply when screen width is less than 1200px */
