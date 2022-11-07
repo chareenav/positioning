@@ -7,11 +7,13 @@ html {
     background-color: #4f2410;
     font-family: 'Lato', 'Times New Roman', Times, serif
     font-size: 0.95em;
-    line-height: 1.5em;
-
-      
+    line-height: 1.5em;    
 }
 
+body{
+    margin:0; /* removes space above body, top of page */
+ }
+ 
 ::selection {
     color: #000(0, 0, 0); 
     background: #ff0;
