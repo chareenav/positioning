@@ -5,7 +5,7 @@
 
 html {
     background-color: #4f2410;
-    font-family: 'Lato', 'Times New Roman', Times, serif
+    font-family: 'Lato', 'Times New Roman', Times, serif;
     font-size: 0.95em;
     line-height: 1.5em;    
 }
@@ -98,10 +98,7 @@ footer {
     clear: both;
   }
  
-
-
-
-
+  
 .text-align-center{
     text-align:center;
     background-color:aqua;
@@ -114,7 +111,7 @@ footer {
     text-align:center;
  }
  
-
+ 
  .fa {
     padding: 20px;
     font-size: 30px;
